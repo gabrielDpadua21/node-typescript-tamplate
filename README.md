@@ -17,6 +17,12 @@
 $ yarn install
 ```
 
+## Prepare (set husky hooks)
+
+```bash
+$ yarn prepare
+```
+
 ## Running the app
 
 ```bash
